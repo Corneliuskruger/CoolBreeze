@@ -1,0 +1,2 @@
+D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\CoolBreeze.UWP.csproj;x86
+D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze\CoolBreeze.csproj;neutral

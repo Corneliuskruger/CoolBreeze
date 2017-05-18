@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CoolBreeze/CoolBreeze/bin
+/.vs
+/CoolBreeze/CoolBreeze/obj
+/CoolBreeze/CoolBreeze.Android/bin
+/CoolBreeze/CoolBreeze.Android/obj
+/CoolBreeze/CoolBreeze.iOS/bin
+/CoolBreeze/CoolBreeze.iOS/obj
+/packages

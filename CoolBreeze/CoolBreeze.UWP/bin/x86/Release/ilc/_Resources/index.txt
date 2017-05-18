@@ -1,0 +1,24 @@
+CoolBreeze, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  CoolBreeze.MainPage.xaml
+  CoolBreeze.App.xaml
+  CoolBreeze.LocationPage.xaml
+  CoolBreeze.StartPage.xaml
+  CoolBreeze.Images.01d.png
+  CoolBreeze.Images.01n.png
+  CoolBreeze.Images.02d.png
+  CoolBreeze.Images.02n.png
+  CoolBreeze.Images.03d.png
+  CoolBreeze.Images.03n.png
+  CoolBreeze.Images.04d.png
+  CoolBreeze.Images.04n.png
+  CoolBreeze.Images.09d.png
+  CoolBreeze.Images.09n.png
+  CoolBreeze.Images.10d.png
+  CoolBreeze.Images.10n.png
+  CoolBreeze.Images.11d.png
+  CoolBreeze.Images.11n.png
+  CoolBreeze.Images.13d.png
+  CoolBreeze.Images.13n.png
+  CoolBreeze.Images.50d.png
+  CoolBreeze.Images.50n.png
+  CoolBreeze.Images.coolbreeze.png

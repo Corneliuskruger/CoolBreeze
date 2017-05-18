@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\Corne\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\intermediate\MDIL\CoolBreeze.UWP.mdilexe"
+"/i:D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\intermediate\Native\CoolBreeze.UWP.exe"
+"/pdbAltPath:D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\bin\x86\Release\ilc"
+"/res:D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\Corne\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.6.0\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

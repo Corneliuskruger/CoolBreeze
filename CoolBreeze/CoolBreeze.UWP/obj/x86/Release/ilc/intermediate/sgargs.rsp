@@ -1,0 +1,12 @@
+/out:"D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\intermediate\\"
+/ref:"D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\intermediate\TransformedSRWR"
+/ref:"D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\in"
+/ref:"D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\in\\"
+/ref:"D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\Corne\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\x86\ilc\lib\Private\\"
+/ref:"D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\Corne\.nuget\packages\microsoft.net.native.compiler\1.6.0\tools\x86\ilc\csc"
+"@D:\QuickStart\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\ComputedSerializationInput.txt"
